@@ -5,11 +5,6 @@ A schedule creator used to create timetables for a summer camp. Created using py
 To run the program simply execute the script *ui.py*.
 
 # Program Information
-**Purpose:** 
-This scheduling software was used by the office
-staff at one of my previous jobs, a summer camp. It was
-used to generate a set of group schedules for campers based
-on a variety of constraints given to me.
  
 **Schedule Layout:**
 The schedule for each group has 6 periods.
